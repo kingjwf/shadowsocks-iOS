@@ -1,6 +1,5 @@
 
 
-
 Shadowsocks for iOS and OSX
 ===========================
 
@@ -58,3 +57,7 @@ Mailing list: http://groups.google.com/group/shadowsocks
 
 Also see [troubleshooting](https://github.com/clowwindy/shadowsocks/wiki/Troubleshooting)
 # shadowsocks-iOS
+
+
+记录一下，分支过来，更改id，修改lib库bug，能成功运行了，感谢!
+2019.3.13
